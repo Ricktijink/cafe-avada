@@ -486,11 +486,17 @@ footer{
 
 .default-smallhero, .aboutus-hero, .foodanddrinks-hero, .ourstory-hero, .locations-hero{
   background-image: url('./images/hero-banner.jpg');  
-  height: 70vh;
+  /* height: 70vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
+
+  height: 70vh;
+    background-attachment: fixed;
+    background-position: 120px 0px;
+    background-repeat: no-repeat;
+    background-size: contain;
 
   display: flex;
   justify-content: center;
