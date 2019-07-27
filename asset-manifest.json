@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cafe-avada/static/css/main.5ceed284.chunk.css",
+    "main.js": "/cafe-avada/static/js/main.4ccf801b.chunk.js",
+    "main.js.map": "/cafe-avada/static/js/main.4ccf801b.chunk.js.map",
+    "runtime~main.js": "/cafe-avada/static/js/runtime~main.e189cdd6.js",
+    "runtime~main.js.map": "/cafe-avada/static/js/runtime~main.e189cdd6.js.map",
+    "static/js/2.dbe27321.chunk.js": "/cafe-avada/static/js/2.dbe27321.chunk.js",
+    "static/js/2.dbe27321.chunk.js.map": "/cafe-avada/static/js/2.dbe27321.chunk.js.map",
+    "index.html": "/cafe-avada/index.html",
+    "precache-manifest.a8705ba1386469c0b389abc837771d04.js": "/cafe-avada/precache-manifest.a8705ba1386469c0b389abc837771d04.js",
+    "service-worker.js": "/cafe-avada/service-worker.js",
+    "static/css/main.5ceed284.chunk.css.map": "/cafe-avada/static/css/main.5ceed284.chunk.css.map",
+    "static/media/index.css": "/cafe-avada/static/media/reservations-bg.144a9523.png",
+    "static/media/blog-four-thumb.jpg": "/cafe-avada/static/media/blog-four-thumb.19001f1c.jpg",
+    "static/media/blog-one-thumb.jpg": "/cafe-avada/static/media/blog-one-thumb.fa329e0d.jpg",
+    "static/media/blog-three-thumb.jpg": "/cafe-avada/static/media/blog-three-thumb.defe593b.jpg",
+    "static/media/blog-two-thumb.jpg": "/cafe-avada/static/media/blog-two-thumb.5402548a.jpg",
+    "static/media/footer-logo.png": "/cafe-avada/static/media/footer-logo.086a3ddd.png",
+    "static/media/hero-banner-logo.png": "/cafe-avada/static/media/hero-banner-logo.b366961a.png",
+    "static/media/img1.jpg": "/cafe-avada/static/media/img1.30fd5bac.jpg",
+    "static/media/img2.jpg": "/cafe-avada/static/media/img2.1b00a581.jpg",
+    "static/media/main-logo.png": "/cafe-avada/static/media/main-logo.2f511c22.png",
+    "static/media/small-item-1.png": "/cafe-avada/static/media/small-item-1.4f8c2d9a.png",
+    "static/media/small-item-2.png": "/cafe-avada/static/media/small-item-2.d8c07ba3.png",
+    "static/media/small-item-3.png": "/cafe-avada/static/media/small-item-3.c201e82e.png",
+    "static/media/small-item-4.png": "/cafe-avada/static/media/small-item-4.9381da7d.png"
+  }
+}
